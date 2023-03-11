@@ -12,7 +12,7 @@
     "reconnect-core": "~0.2.1"
   },
   "optionalDependencies": {
-    "shoe": ">=0.0.7 <1",
+    "shoe": "https://github.com/jleppert/shoe.git",
     "sockjs-stream": "github:jleppert/sockjs-stream"
   },
   "devDependencies": {
